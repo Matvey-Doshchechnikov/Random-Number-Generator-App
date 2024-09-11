@@ -14,4 +14,5 @@
 Создайте файл .env в корне проекта и добавьте следующие переменные окружения
 
 GITHUB_CLIENT_ID=ваш_client_id_от_github
+
 GITHUB_CLIENT_SECRET=ваш_client_secret_от_github
